@@ -1,3 +1,10 @@
+<!---
+		create by 	:	jhon Edison Gomez
+		date		:	03-Apr-2015
+		description	:	consume a web service to grt Weather from United States
+
+--->
+
 <!--- Invoke the web service as a dude. --->
 <cfinvoke
     webservice="http://www.webservicex.net/globalweather.asmx?WSDL"
